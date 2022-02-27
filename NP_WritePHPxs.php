@@ -67,5 +67,3 @@ class NP_WritePHPxs extends NucleusPlugin {
       
 
 }
-
-?> 
